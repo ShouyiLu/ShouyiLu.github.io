@@ -75,12 +75,44 @@ My research interests include AIGC, scene editing, 3D Gaussian Splatting, point 
 
 - Lianqing Zheng, Long Yang, Qunshu Lin, Wenjin Ai, Minghao Liu, <u>**Shouyi Lu**</u> et al. "OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving," (submitted to IEEE T-PAMI) [**Paper**](https://arxiv.org/pdf/2412.10734)
 
+- 基于视觉和底盘信息的车辆自主定位系统及定位方法 (除导师外第一发明人，授权)
+
+- 下坡路上交通信号灯识别方法、系统及计算机可读介质 (除导师外第一发明人，授权)
+
+- 一种基于车辆-无人机协同的高速公路车辆行为和轨迹预测方法 (第四发明人，授权)
+
+- 一种基于深度学习的4D毫米波雷达里程计方法 (除导师外第一发明人，公开)
+
+- 基于多模态和多尺度自适应融合的4D雷达视觉里程计方法 (除导师外第一发明人，公开)
+
+- 一种基于序列4D雷达点云生成全局描述子的地点识别方法 (除导师外第一发明人，公开)
+
+- 一种用于自动驾驶车辆的4D毫米波雷达自监督里程计方法 (第三发明人，公开)
+
+- 一种耦合深度学习与物理优化的4D毫米波雷达自监督里程计方法 (第三发明人，公开)
+
+- 一种基于多源传感器融合架构的车载单目视觉惯性定位方法 (第三发明人，公开)
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023-2024* China National Scholarship (top 1%, ￥30,000)
+- *2023-2024* Outstanding Individual Award, Intelligent Vehicle Research Institute, Tongji University (top 1%, ￥5,000)
+- *2022-2023* Outstanding Individual Award, Intelligent Vehicle Research Institute, Tongji University (top 1%, ￥5,000)
+- *2022-2023* Academic Achievement Scholarship, Jilin University (top 5%, ￥8,000)
+- *2021-2022* Suzhou Industrial Park Scholarship (top 1%, ￥2,000)
+- *2021-2022* Academic Achievement Scholarship, Jilin University (top 5%, ￥8,000)
+- *2021-2022* Master's Academic Scholarship, Jilin University (top 5%, ￥8,000)
+- *2020-2021* Master's Academic Scholarship, Jilin University (top 5%, ￥8,000)
+- *2018-2019* First-Class Academic Scholarship (top 5%, ￥800)
+- *2017-2018* First-Class Academic Scholarship (top 5%, ￥800)
+- *2016-2017* First-Class Academic Scholarship (top 5%, ￥800)
+- *2015-2016* First-Class Academic Scholarship (top 5%, ￥800)
+- Outstanding Graduate of Jilin University
+- Outstanding Student of Shandong Province
+- Outstanding Graduate of Shandong Province
+- First Prize (National Level), National Undergraduate Mathematics Competition
+- First-Class Award (Shandong Division), China Undergraduate Mathematical Contest in Modeling
 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Services
+Reviewer of IEEE ICRA, IEEE IROS, AAAI
+Reviewer of IEEE T-IV, IET ITS
 
