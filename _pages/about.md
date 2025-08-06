@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🔥 Short Bio
-I am currently pursuing a Ph.D. at the School of Automotive Studies, Tongji University, under the supervision of Associate Professor Guirong Zhu. Prior to this, I obtained my Master's degree from Jilin University of Automotive Engineering and received my Bachelor's degree from the School of Transportation and Vehicle Engineering at Shandong University of Technology.
+I am currently pursuing a Ph.D. at the School of Automotive Studies, Tongji University, under the supervision of Associate Professor Guirong Zhuo. Prior to this, I obtained my Master's degree from Jilin University of Automotive Engineering and received my Bachelor's degree from the School of Transportation and Vehicle Engineering at Shandong University of Technology.
 
 My research interests include AIGC, scene editing, 3D Gaussian Splatting, point cloud super-resolution, pose estimation, place recognition, and multimodal fusion. My current work primarily focuses on the following directions: autonomous driving scene reconstruction based on 4D radar, online adaptive 4D radar-IMU-vision fusion odometry, and point cloud super-resolution algorithms incorporating knowledge diffusion and distillation strategies.
 <a href='https://scholar.google.com/citations?user=kRKEO4kAAAAJ'>
