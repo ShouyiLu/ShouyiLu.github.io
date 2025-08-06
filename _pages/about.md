@@ -41,7 +41,7 @@ My research interests include AIGC, scene editing, 3D Gaussian Splatting, point 
 
 - <u>**Shouyi Lu**</u>, Guirong Zhuo et al. "TDFANet: Encoding Sequential 4D Radar Point Clouds Using Trajectory-Guided Deformable Feature Aggregation for Place Recognition," (ICRA 2025) [**Paper**](https://arxiv.org/pdf/2504.05103) [**Video**](https://www.youtube.com/watch?v=2jgLITzA_48)
 
-- Boyuan Zheng, <u>**Shouyi Lu**</u>(Project Lead)** et al. "R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model," (IROS 2025) [**Paper**](https://arxiv.org/pdf/2503.17097) [**Video**](https://www.youtube.com/watch?v=p8hqg3TpJgE)
+- Boyuan Zheng, <u>**Shouyi Lu**</u>(Project Lead) et al. "R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model," (IROS 2025) [**Paper**](https://arxiv.org/pdf/2503.17097) [**Video**](https://www.youtube.com/watch?v=p8hqg3TpJgE)
 
 - <u>**Shouyi Lu**</u>, Guirong Zhuo et al. "Efficient deep-learning 4D automotive radar odometry method," (IEEE T-IV) **ESI Highly Cited Paper** [**Paper**](https://ieeexplore.ieee.org/abstract/document/10237296)
 
